@@ -6,6 +6,7 @@
 <a href="https://github.com/Morzepy/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Morzepy&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-<a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api? username=Morzepy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Morzepy github stats" /></a> <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morzepy&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/Morzepy/github-readme-stats"><img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=Morzepy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Morzepy github stats" /></a> <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morzepy&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
