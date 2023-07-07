@@ -3,7 +3,7 @@
 <h3 align="left">About me:</h3>
 <h4 align="left">I live in Moscow. My path to IT began with studying C++ and Python. Now I often write in C#. I got an education in the specialty "Infocommunication technologies and communication systems". At the moment I`m getting an education in "Computer Science and Computer Engineering". I`m the author of 5 scientific papers related to blockchain and neural networks </h4>
 
- <img align="center" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 <h2 align="left">Languages and tools:</h2>
 <p>
