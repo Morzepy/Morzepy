@@ -1,10 +1,18 @@
+
 <h1 align="center">Hi there, I'm Pavel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">About me:</h3>
 <h4 align="left">I live in Moscow. My path to IT began with studying C++ and Python. Now I often write in C#. I got an education in the specialty "Infocommunication technologies and communication systems". At the moment I`m getting an education in "Computer Science and Computer Engineering". I`m the author of 5 scientific papers related to blockchain and neural networks </h4>
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+<p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="250"></img>
+<h5 align="left">📡  Inquisitive</h5>
+<h5 align="left">🛠 Executive</h5>
+<h5 align="left">💻 C# Developer</h5>
+<h5 align="left">🎓 Graduate MTUCI</h5>
+<h5 align="left">👨‍🔬 Scientific author</h5>
+ </p> 
+
 <h2 align="left">Languages and tools:</h2>
 <p>
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -21,9 +29,13 @@
 </p>
 <h2 align="left">C# and Network :</h2>
 <h4 align="left"> OOP,  Multithreading, LINQ, EF, WPF, Windows Forms, XAML, TCP/IP</h4>
-<a href="https://github.com/Morzepy/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/Morzepy/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Morzepy&column=8&theme=gruvbox&no-frame=true"/>
+<img align="center" src="https://leetcode-stats-six.vercel.app/api?username=Morzepy&theme=dark" />
+ 
+ <img align="center" src="https://www.codewars.com/users/Morze_sharp/badges/large" /></a> <a href="https://github.com/Morzepy/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a><a href="https://github.com/Morzepy/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=Morzepy&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=Morzepy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Morzepy github stats" /></a> <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morzepy&layout=compact&theme=buefy&hide_border=true" /></a> 
+src="https://github-readme-stats.vercel.app/api?username=Morzepy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Morzepy github stats" /></a> 
+
+<a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morzepy&layout=compact&theme=dark&hide_border=true" /></a> 
+
+ <img width=800 src="https://github-readme-streak-stats.herokuapp.com/?&theme=dark&user=Morzepy"/> 
