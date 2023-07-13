@@ -1,21 +1,51 @@
+
 <h1 align="center">Hi there, I'm Pavel</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">About me:</h3>
-I live in Moscow. My path to IT began with studying C++ and Python. Now I often write in C#. I got an education in the specialty "Infocommunication technologies and communication systems". At the moment I`m getting an education in "Computer Science and Computer Engineering". I`m the author of 5 scientific papers related to blockchain and neural networks
 
-<p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250"></img>
+```C#
+using System;
+namespace PavelPlotnikov;
+{
+  class AboutMe : Parents
+    {
+        public string firstName { get; set; }
+        public string middleName { get; set; }
+        public string lastName { get; set; }
 
-- 📡  Inquisitive
+        public string role { get; set; }
+        public string education { get; set; }
 
-- 🛠 Executive
+        public string language { get; set; }
+        public int age { get; set; }
 
-- 💻 C# Developer
+        public void FullInfo()
+        {
+            Console.WriteLine("Фамилия: {0}| Имя: {1}| Отчество: {2}", lastName, firstName, middleName);
+            Console.WriteLine("В данный момент получаю образование: {0}", education);
+            Console.WriteLine("Хочу стать: {0}", role);
+            Console.WriteLine("Знаю: {0} ", language);
+            Console.WriteLine("Мне {0} года", age);
+        }
+    }
 
-- 🎓 Graduate MTUCI
-
-- 👨‍🔬 Scientific author
- </p> 
+    class Program
+    {
+        static void Main()
+        {
+            AboutMe I = new AboutMe()
+            {
+                lastName = "Плотников",
+                firstName = "Павел",
+                middleName = "Сергеевич",
+                role = "С# Developer",
+                education = "Магистра МТУСИ (Информатика и Вычислительная техника)",
+                language = "Русский и Английский",
+                age = 23
+            };
+            I.FullInfo();
+        }
+    }
+}
+```
 
 <h2 align="left">Languages and tools:</h2>
 <p>
