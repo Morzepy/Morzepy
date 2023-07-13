@@ -18,7 +18,7 @@ namespace PavelPlotnikov;
         public string language { get; set; }
         public int age { get; set; }
 
-        public void FullInfo()
+        public override void FullInfo()
         {
             Console.WriteLine("Фамилия: {0}| Имя: {1}| Отчество: {2}", lastName, firstName, middleName);
             Console.WriteLine("В данный момент получаю образование: {0}", education);
