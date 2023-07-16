@@ -63,8 +63,7 @@ namespace PavelPlotnikov;
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 <h2 align="left">C# and Network :</h2>
-<h4 align="left"> OOP,  Multithreading, LINQ, EF, WPF, Windows Forms, XAML, TCP/IP</h4>
-
+<h4 align="left"> OOP, WPF, Windows Forms, XAML, Multithreading, LINQ, Entity Framework, SQL, NUnit, TCP/IP, Patterns: MVC, MVVM, Singleton</h4>
 
 <p>
 
