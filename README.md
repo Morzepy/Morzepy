@@ -6,7 +6,7 @@
 using System;
 namespace PavelPlotnikov;
 {
-  class AboutMe : Parents
+  class AboutMe : AboutParents
     {
         public string firstName { get; set; }
         public string middleName { get; set; }
@@ -75,15 +75,13 @@ namespace PavelPlotnikov;
  <img align="center" src="https://www.codewars.com/users/Morze_sharp/badges/large" /></a> <a href="https://github.com/Morzepy/github-profile-trophy">
  </p>
 
-<h2>🏆 Github Profile Trophy</h2></a><a href="https://github.com/Morzepy/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=Morzepy&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+<h2>🏆 Github Profile Trophy</h2></a>
 
 ### Github Stats 
+
 <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" 
 src="https://github-readme-stats.vercel.app/api?username=Morzepy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Morzepy github stats" /></a> 
 
 ### Coding Stats  
 <a href="https://github.com/Morzepy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morzepy&layout=compact&theme=dark&hide_border=true" /></a> 
-### Streak Stats 
- <img width=800 src="https://github-readme-streak-stats.herokuapp.com/?&theme=dark&user=Morzepy"/> 
 
